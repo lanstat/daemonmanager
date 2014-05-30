@@ -1,0 +1,8 @@
+{
+	"shell-version": ["3.10.4"], 
+	"uuid": "daemon.manager@lanstat.gmail.com", 
+	"name": "Daemon Manager",
+	"settings-schema": "org.gnome.shell.extensions.daemon-manager",
+	"gettext-domain": "gnome-shell-extensions",
+	"description": "Manage your daemons"
+}

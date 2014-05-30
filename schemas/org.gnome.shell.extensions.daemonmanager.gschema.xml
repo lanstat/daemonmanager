@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extension-daemonmanager">
+	<schema path="/org/gnome/shell/extensions/daemon-manager/" id="org.gnome.shell.extensions.daemon-manager">
+		<key type="as" name="daemon">
+			<default>[]</default>
+			<summary>Daemon to be displayed</summary>
+		</key>
+		<key type="i" name="actual-avalaible">
+			<default>0</default>
+		</key>
+		<key type="i" name="actual-enable">
+			<default>0</default>
+		</key>
+		<key type="s" name="passwd">
+			<default>'PUT YOU PASSWORD HERE'</default>
+		</key>
+	</schema>
+</schemalist>
